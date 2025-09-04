@@ -1,11 +1,13 @@
 # 🏠 PantryPal - Smart Kitchen Inventory Management
 
+**Desktop Application Link**==>(https://transcendent-chaja-e691df.netlify.app/)
 A modern iOS app built with SwiftUI and SwiftData that helps you manage your kitchen inventory, track expiration dates, scan barcodes, and discover recipes.
 
 ![PantryPal App](https://img.shields.io/badge/iOS-15.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-4.0+-green.svg)
 ![SwiftData](https://img.shields.io/badge/SwiftData-1.0+-purple.svg)
+
 
 ## ✨ Features
 
@@ -98,19 +100,6 @@ Kitchen pantry/
     └── CustomTextFieldStyle.swift # Custom input styling
 ```
 
-## 📱 Screenshots
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Inventory Management
-![Inventory](screenshots/inventory.png)
-
-### Recipe Discovery
-![Recipes](screenshots/recipes.png)
-
-### Barcode Scanning
-![Barcode](screenshots/barcode.png)
 
 ## 🔧 Configuration
 
@@ -124,19 +113,7 @@ Add to your `Info.plist`:
 ### Notification Permissions
 The app automatically requests notification permissions on first launch.
 
-## 🧪 Testing
 
-### Unit Tests
-```bash
-# Run unit tests
-Cmd + U in Xcode
-```
-
-### UI Tests
-```bash
-# Run UI tests
-Cmd + U in Xcode (select UI test target)
-```
 
 ## 📈 Future Enhancements
 
@@ -160,7 +137,7 @@ Cmd + U in Xcode (select UI test target)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Open Food Facts** for product database
 - **Spoonacular** for recipe API
