@@ -1,6 +1,7 @@
 # 🏠 PantryPal - Smart Kitchen Inventory Management
 
 **Desktop Application Link**==>(https://transcendent-chaja-e691df.netlify.app/)<br>
+<br>
 <img width="140" height="280" alt="Image" src="https://github.com/user-attachments/assets/a64f193c-c6de-43b4-9a15-bdf052646511" >
 <img width="140" height="280" alt="Image" src="https://github.com/user-attachments/assets/97ce8258-7680-41ea-8238-f2acc06ccf1e" >
 <img width="140" height="280" alt="Image" src="https://github.com/user-attachments/assets/74ebc110-7187-42b7-a893-8eaac85484a5" >
