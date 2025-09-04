@@ -1,6 +1,12 @@
 # 🏠 PantryPal - Smart Kitchen Inventory Management
 
 **Desktop Application Link**==>(https://transcendent-chaja-e691df.netlify.app/)
+<img width="607" height="1078" alt="Image" src="https://github.com/user-attachments/assets/a64f193c-c6de-43b4-9a15-bdf052646511" />
+<img width="607" height="1070" alt="Image" src="https://github.com/user-attachments/assets/97ce8258-7680-41ea-8238-f2acc06ccf1e" />
+<img width="606" height="1074" alt="Image" src="https://github.com/user-attachments/assets/74ebc110-7187-42b7-a893-8eaac85484a5" />
+<img width="603" height="1073" alt="Image" src="https://github.com/user-attachments/assets/d1013579-9b35-414d-846b-cb9d63b50ff3" />
+<img width="602" height="1086" alt="Image" src="https://github.com/user-attachments/assets/c4d21530-93c7-439a-adc4-1cb84fa48331" />
+
 A modern iOS app built with SwiftUI and SwiftData that helps you manage your kitchen inventory, track expiration dates, scan barcodes, and discover recipes.
 
 ![PantryPal App](https://img.shields.io/badge/iOS-15.0+-blue.svg)
